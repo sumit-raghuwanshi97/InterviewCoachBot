@@ -45,6 +45,8 @@ async def read_root():
     """
     with open("textbase/frontend/dist/index.html") as f:
         return f.read()
+    
+
 
 
 def get_module_from_file_path(file_path: str):
