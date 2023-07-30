@@ -1,0 +1,14 @@
+Here are some things you can do with this Interview Coach Bot:
+
+1. Ask for Interview Tips.
+2. Request Resume Review.
+3. Get Common Interview Questions.
+4. Practice Behavioral Interviews.
+5. Prepare for Technical Interviews.
+6. Ask about Interview Follow-Up.
+7. Get tips for Phone or Video Interviews.
+8. Handle Behavioral Questions about Conflict Resolution.
+9. Seek tips for Salary Negotiation.
+10. Get advice for Group or Team Interviews.
+
+To interact with the bot, simply type your question or topic, and the bot will respond with relevant information. Enjoy your interview preparation!
