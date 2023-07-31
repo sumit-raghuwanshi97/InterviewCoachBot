@@ -38,6 +38,12 @@ poetry run python textbase/textbase_cli.py test main.py
 ```
 Now go to http://localhost:4000 and start chatting with your Interview Coach chat bot 
 
+##How to use 
+
+![Demo image](https://github.com/sumit-raghuwanshi97/InterviewCoachBot/commit/fbd6f1275f6a63940c6c76dd5eca052862d68854)
+
+
+
 ## Acknowledgments
 
 I would like to express my sincere gratitude to the developers of the [Textbase](https://github.com/cofactoryai/textbase.git) for creating such a fantastic library. Their efforts have been instrumental in the development of the Interview Coach chatbot, making it easier to build a powerful text-based conversational interface.
